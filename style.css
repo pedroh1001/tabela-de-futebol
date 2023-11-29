@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(to right, rgb(67, 2, 2), rgb(219, 51, 51));
+
+}
+
+
+h1{
+    text-align: center;
+
+}
+
+.conteudo {
+    text-align: left
+}
+
+
+table, th, td {
+    border: 1px solid;
+    border: none;
+    font-size: 19px;
+    border-collapse: collapse;
+    padding: 6px 2px;
+    
+}
+
+table {
+    width: 100%;
+}
+
+
+.conteudo{
+    text-align: center;
+    
+}
+
+
+.parteTimes{ 
+    text-align: center;
+}
+
+div{
+ font-size: 19px;
+
+}
+
+.h2{
+    font-style: italic;
+    
+
+}
+
+
+.p{
+    font-style: italic;
+
+}
